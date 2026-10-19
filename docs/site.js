@@ -7,7 +7,7 @@ window.YOUMEK = {
   googlePlay: "",    // e.g. "https://play.google.com/store/apps/details?id=com.youmek.app"
   webApp: "",        // e.g. "https://app.youmek.com" (empty hides the web link)
   // Formspree form link for the email signup (free at formspree.io), e.g. "https://formspree.io/f/abcdwxyz"
-  formEndpoint: ""
+  formEndpoint: "https://formspree.io/f/xqpejwpk"
 };
 
 /* ============================================================
