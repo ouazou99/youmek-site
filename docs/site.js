@@ -3,7 +3,7 @@
    ============================================================ */
 window.YOUMEK = {
   // Paste the store links when the app is live. Empty = the button says "Coming soon".
-  appStore: "",      // e.g. "https://apps.apple.com/app/id0000000000"
+appStore: "https://apps.apple.com/us/app/youmek-mood-daily-planner/id6826694960",// e.g. "https://apps.apple.com/app/id0000000000"
   googlePlay: "",    // e.g. "https://play.google.com/store/apps/details?id=com.youmek.app"
   webApp: "",        // e.g. "https://app.youmek.com" (empty hides the web link)
   // Formspree form link for the email signup (free at formspree.io), e.g. "https://formspree.io/f/abcdwxyz"
